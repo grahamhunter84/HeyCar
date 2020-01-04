@@ -32,9 +32,6 @@ public class DealerController {
   @Autowired
   private DealerUploadDTOToCarListingMapper mapper;
 
-
-
-
   @Autowired
   private CSVToDealerDTOMapper dealerDTOMapper;
 
